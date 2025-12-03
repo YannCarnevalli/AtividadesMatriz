@@ -21,5 +21,12 @@ namespace Matriz_Vetores
             ex2.Show();
             this.Hide();
         }
+
+        private void ex3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ex3 ex3 = new Ex3();
+            ex3.Show();
+            this.Hide();
+        }
     }
 }

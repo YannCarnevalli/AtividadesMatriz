@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matriz_Vetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99b0176b819ffb67168f029d426c544db1c53dbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matriz_Vetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matriz_Vetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

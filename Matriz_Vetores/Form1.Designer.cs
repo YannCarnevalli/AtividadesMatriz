@@ -63,6 +63,7 @@
             ex3ToolStripMenuItem.Name = "ex3ToolStripMenuItem";
             ex3ToolStripMenuItem.Size = new Size(36, 20);
             ex3ToolStripMenuItem.Text = "Ex3";
+            ex3ToolStripMenuItem.Click += ex3ToolStripMenuItem_Click;
             // 
             // Frmmenu
             // 

@@ -16,3 +16,5 @@ C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-window
 C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-windows\Matriz_Vetores.genruntimeconfig.cache
 C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-windows\ref\Matriz_Vetores.dll
 C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-windows\Matriz_Vetores.Ex2.resources
+C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-windows\Matriz_Vetores.sourcelink.json
+C:\Users\Yann\source\repos\Matriz_Vetores\Matriz_Vetores\obj\Debug\net8.0-windows\Matriz_Vetores.Ex3.resources
